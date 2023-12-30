@@ -1,12 +1,10 @@
 # IndexStructureJourney
 
-2023 [DKU System Software Lab](https://sslab.dankook.ac.kr/) Index  Study
+2024 [DKU System Software Lab](https://sslab.dankook.ac.kr/) Index  Study
 
 ## Goals
 * Study and Analyze Index Structures
 * Write document.
-  * github: https://github.com/DKU-StarLab/leveldb-wiki
-  * website: https://sslab.dankook.ac.kr/leveldb-wiki
 * (Optional) Write a research paper on what you learned.
 
 
@@ -46,15 +44,11 @@
   - [CMU Intro to Database Systems , Fall 2023)](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=vIqTjyEuCJWWfprn)
   - [Tim Kraska, 『AWS On Air ft. How will AI revolutionize databases?』, 2023](https://youtu.be/zyRmXFj_ej4?si=UdfpqIeCJaos0R0W)
   - [Jongmoo Choi, 『Key-Value Store: Database for Unstructured Bigdata (KOR)』,  2021](https://mooc.dankook.ac.kr/courses/61d537a3b6b71841651153b3)
-  - [JTJ의 리눅스탐험](https://youtube.com/playlist?list=PL0vWyY_q7XP_JMzDKVbOc3aXEEDPjYTUX&si=O8SHNAuP1eD8tShn)
-  - [따라하면서 배우는 Shell Programming](https://youtube.com/playlist?list=PLApuRlvrZKog2XlvGJQh9KY8ePCvUG7Je&si=kfY4Uw9oPrRjskCo)
-  - [Matplotlib 단기집중과정](https://youtu.be/3Xc3CA655Y4?si=7vqUTosyHWppuADv)
-  - [제대로 파는 Git & GitHub - 깃 끝.장.내.기](https://youtu.be/1I3hMwQU6GU?si=fW8B-39g8SR4X_Sv)
+
   
 * Documents
   - [Machine Learning for Systems, MIT 6.887, 2021](https://dsg.csail.mit.edu/6.887/sched.php)
   - [Jongmoo Choi,『Key-Value Store: Database for Unstructured Bigdata』, 2021](https://github.com/DKU-StarLab/leveldb-study/blob/761b550973ab6d1e88189190e66c0ee19a52aa12/introduction/Jongmoo%20Choi,%20Key-Value%20Store%20-%20Database%20for%20Unstructured%20Bigdata,%202021.pdf)
-
 
 
 * Previous Study
@@ -62,12 +56,18 @@
   - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
 
 ### For Beginners
-  - [권창현, 박사과정 학생이 유의해야 하는 점](https://thoughts.chkwon.net/phd-student-professor-faq/)
-  - [문수복, "개별연구/졸업연구를 고민하는 학생들을 위한 간추린 자료"](https://sbmoon.tistory.com/245)
-  - [문수복, "논문 제 1 저자의 책임"](https://sbmoon.tistory.com/253)  
-  - [S. Keshav, "How to Read a Paper"](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-  - [Remzi Arpaci-Dusseau, "Graduate School: Keys To Success"](https://youtu.be/fqPSnjewkuA?si=adHJlDhKV06bmdrH)
-  - [Remzi Arpaci-Dusseau, "25 Years of Storage Research and Education: A Retrospective"](https://youtu.be/u9RECEzxk6I?si=yA7FVDKOD0RzVlGi)
+  - Lectures
+    - [JTJ의 리눅스탐험](https://youtube.com/playlist?list=PL0vWyY_q7XP_JMzDKVbOc3aXEEDPjYTUX&si=O8SHNAuP1eD8tShn)
+    - [따라하면서 배우는 Shell Programming](https://youtube.com/playlist?list=PLApuRlvrZKog2XlvGJQh9KY8ePCvUG7Je&si=kfY4Uw9oPrRjskCo)
+    - [Matplotlib 단기집중과정](https://youtu.be/3Xc3CA655Y4?si=7vqUTosyHWppuADv)
+    - [제대로 파는 Git & GitHub - 깃 끝.장.내.기](https://youtu.be/1I3hMwQU6GU?si=fW8B-39g8SR4X_Sv)
+  - Documents
+    - [권창현, 박사과정 학생이 유의해야 하는 점](https://thoughts.chkwon.net/phd-student-professor-faq/)
+    - [문수복, "개별연구/졸업연구를 고민하는 학생들을 위한 간추린 자료"](https://sbmoon.tistory.com/245)
+    - [문수복, "논문 제 1 저자의 책임"](https://sbmoon.tistory.com/253)  
+    - [S. Keshav, "How to Read a Paper"](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+    - [Remzi Arpaci-Dusseau, "Graduate School: Keys To Success"](https://youtu.be/fqPSnjewkuA?si=adHJlDhKV06bmdrH)
+    - [Remzi Arpaci-Dusseau, "25 Years of Storage Research and Education: A Retrospective"](https://youtu.be/u9RECEzxk6I?si=yA7FVDKOD0RzVlGi)
 
 * Tools
   - [GDB](https://www.sourceware.org/gdb/)
@@ -81,7 +81,7 @@
 
 ## Members
 * Student: [Suhwan Shin](https://github.com/Student5421), [Zhu Yongjie](https://github.com/arashio1111), Boseung Kim, Yeojin Oh, 김나경, 이지수, 최연규 
-* Assistant: [Minguk Choi](https://github.com/min-guk), [Hojin Shin](), [Zhao Guangxun](https://github.com/ErosBryant)
+* Assistant: [Hojin Shin](), [Minguk Choi](https://github.com/min-guk), [Zhao Guangxun](https://github.com/ErosBryant)
 * Professor: [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/)
 
 ## Schedule
