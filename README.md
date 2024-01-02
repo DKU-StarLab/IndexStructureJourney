@@ -3,13 +3,13 @@
 2024 [DKU System Software Lab](https://sslab.dankook.ac.kr/) Index  Study
 
 ## Goals
-* Study and Analyze Index Structures
-* Write document.
+* Study Index and Learned Index Structures
+* Write a open-source document.
 * (Optional) Write a research paper on what you learned.
 
 
-### Paper List
-#### Traditional Index
+## Paper & Lecture List
+### Traditional Index
 - B-Tree
   - Douglas Comer, "Ubiquitous B-Tree", ACM Computing Surveys, 1979
   - R. Bayer, et al. "Organization and maintenance of large ordered indices", SIGFIDET '70
@@ -34,6 +34,7 @@
 - In-memory Database Survey
   - Abdullah Talha Kabakus, et al, "A performance evaluation of in-memory databases", J. King Saud Univ. Comput. Inf. Sci. 2017
 
+### Learned Index
 #### Read-Only Learned Index
 - Maltry, Marcel, et al. "A critical analysis of recursive model indexes.", VLDB 22' [:octocat:](https://github.com/BigDataAnalyticsGroup/analysis-rmi)
 - Ferragina, Paolo, et al. "The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds.", VLDB 20' [:octocat:](https://gitub.com/gvinciguerra/PGM-index)
@@ -49,6 +50,8 @@
 - Wongkham, Chaichon, et al. "Are updatable learned indexes ready?.", VLDB 22' [:octocat:](https://github.com/gre4index/GRE)
 
 #### Application
+- Error-Bounded PLA Model
+  - Xie, Qing, et al. "Maximum error-bounded piecewise linear representation for online stream approximation." VLDB journal 14
 - Key-Value Store
   - Dai, Yifan, et al. "From {WiscKey} to Bourbon: A Learned Index for {Log-Structured} Merge Trees.", OSDI 20 [:octocat:](https://bitbucket.org/daiyifandanny/learned-leveldb/src/master/)
   - Yu, Geoffrey X., et al. "Treeline: an update-in-place key-value store for modern storage.", VLDB 22 [:octocat:](https://github.com/mitdbg/treeline) [:bar_chart:](https://people.csail.mit.edu/markakis/presentations/2023-08-31_VLDB_TreeLine_Presentation.pdf)
@@ -57,21 +60,11 @@
 - FTL
   - Sun, Jinghan, et al. "Leaftl: A learning-based flash translation layer for solid-state drives.", ASPLOS 23
 
-### References
-* Lecture
+### Lecture
   - [CMU Intro to Database Systems , Fall 2023)](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=vIqTjyEuCJWWfprn)
   - [Tim Kraska, 『AWS On Air ft. How will AI revolutionize databases?』, 2023](https://youtu.be/zyRmXFj_ej4?si=UdfpqIeCJaos0R0W)
-  - [Jongmoo Choi, 『Key-Value Store: Database for Unstructured Bigdata (KOR)』,  2021](https://mooc.dankook.ac.kr/courses/61d537a3b6b71841651153b3)
-
-  
-* Documents
+  - [Jongmoo Choi, 『Key-Value Store: Database for Unstructured Bigdata (KOR)』,  2021](https://mooc.dankook.ac.kr/courses/61d537a3b6b71841651153b3) [:bar_chart:](https://github.com/DKU-StarLab/leveldb-study/blob/761b550973ab6d1e88189190e66c0ee19a52aa12/introduction/Jongmoo%20Choi,%20Key-Value%20Store%20-%20Database%20for%20Unstructured%20Bigdata,%202021.pdf)
   - [MIT, "Machine Learning for Systems", 2021](https://dsg.csail.mit.edu/6.887/sched.php)
-  - [Jongmoo Choi,"Key-Value Store: Database for Unstructured Bigdata", 2021](https://github.com/DKU-StarLab/leveldb-study/blob/761b550973ab6d1e88189190e66c0ee19a52aa12/introduction/Jongmoo%20Choi,%20Key-Value%20Store%20-%20Database%20for%20Unstructured%20Bigdata,%202021.pdf)
-
-
-* Previous Study
-  - [DKU Leveldb Study, 2022]()
-  - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
 
 ### For Beginners
   - Lectures
@@ -94,9 +87,12 @@
   - [Uftrace](https://github.com/namhyung/uftrace)
 
 * File
-  - [presentation format](./file/%5Bformat%5Dleveldb_study_ppt.pptx)
+  - [presentation file format](./file/%5Bformat%5Dleveldb_study_ppt.pptx)
   - [kcc research paper format](./file/%5Bformat%5Dresearch_paper(KCC).hwp)
 
+* Previous Study
+  - [DKU Leveldb Study, 2022]()
+  - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
 
 ## Members
 * Student: [Suhwan Shin](https://github.com/Student5421), [Zhu Yongjie](https://github.com/arashio1111), Boseung Kim, Yeojin Oh, 김나경, 이지수, 최연규 
