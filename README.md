@@ -14,6 +14,7 @@
   - Douglas Comer, "Ubiquitous B-Tree", ACM Computing Surveys, 1979
   - R. Bayer, et al. "Organization and maintenance of large ordered indices", SIGFIDET '70
   - Justin J. Levandoski, et al. "The Bw-Tree: A B-tree for new hardware platform", ICDE 2013 [:octocat:](https://github.com/flode/BwTree.git)
+  - J. Rao, et al. "CSB+Tree Making B+-Trees Cache Conscious in Main Memory", SIGMOD 2000
 - SkipList
   - William Pugh, "Skip lists: a probabilistic alternative to balanced trees", Communications of the ACM 1990
   - Zhongle Xie, et al. "Parallelizing Skip Lits for In-Memory Multi-Core Database Systems", ICDE 2017
