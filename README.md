@@ -99,7 +99,7 @@
 
 ## Members
 * Student: [Suhwan Shin](https://github.com/Student5421), [Zhu Yongjie](https://github.com/arashio1111), Boseung Kim, Yeojin Oh, 김나경, 이지수, 최연규 
-* Assistant: [Hojin Shin](), [Minguk Choi](https://github.com/min-guk), [Zhao Guangxun](https://github.com/ErosBryant)
+* Assistant: [Hojin Shin](https://github.com/shinhojin), [Minguk Choi](https://github.com/min-guk), [Zhao Guangxun](https://github.com/ErosBryant)
 * Professor: [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/)
 
 ## Schedule
