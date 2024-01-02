@@ -10,11 +10,28 @@
 
 ### Paper List
 #### Traditional Index
-- B+Tree
+- B-Tree
+  - Douglas Comer, "Ubiquitous B-Tree", ACM Computing Surveys, 1979
+  - R. Bayer, et al. "Organization and maintenance of large ordered indices", SIGFIDET '70
+  - Justin J. Levandoski, et al. "The Bw-Tree: A B-tree for new hardware platform", ICDE 2013 [:octocat:](https://github.com/flode/BwTree.git)
 - SkipList
+  - William Pugh, "Skip lists: a probabilistic alternative to balanced trees", Communications of the ACM 1990
+  - Zhongle Xie, et al. "Parallelizing Skip Lits for In-Memory Multi-Core Database Systems", ICDE 2017
+  - Jingtian Zhang, et al. "S3: a scalable in-memory skip-list index for key-value store", VLDB 2019
+  - Sprenger, et al. "Cache-Sensitive Skip List: Efficient Range Queries on Modern CPUs", Data Management on New Hardware 2016 [:octocat:](https://github.com/flippingbits/cssl.git)
+  - Jeseong Yeon, et al. "JellyFish: A Fast Skip List with MVCC", Middleware '20
+  - Tyler Crain, et al. "No Hot Spot Non-blocking Skip List", ICDCS 2013
+  - Henry Daly, et al. "NUMASK: High Performance Scalable Skip List for NUMA", DISC 2018 [:octocat:](https://github.com/sss-lehigh/numask.git)
 - ART
+  - Viktor Leis, et al. "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 2013 [:octocat:](https://github.com/armon/libart.git)
 - MassTree
-- LSM-Tree
+  - Yandong Mao, et al. "Cache craftiness for fast multicore key-value storage", EuroSys '12 [:octocat:](https://github.com/kohler/masstree-beta.git)
+- FAST
+  - Changkyu Kim et al. "FAST: fast architecture sensitive tree search on modern CPUs and GPUs", SIGMOD '10
+- In-memory Index Survey
+  - Z. Xie, et al. "A Comprehensive Performance Evaluation of Modern In-Memory Indices", ICDE 2018 
+- In-memory Database Survey
+  - Abdullah Talha Kabakus, et al, "A performance evaluation of in-memory databases", J. King Saud Univ. Comput. Inf. Sci. 2017
 
 #### Read-Only Learned Index
 - Maltry, Marcel, et al. "A critical analysis of recursive model indexes.", VLDB 22' [:octocat:](https://github.com/BigDataAnalyticsGroup/analysis-rmi)
