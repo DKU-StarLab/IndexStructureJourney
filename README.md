@@ -34,7 +34,7 @@
 - Hash-based
   - Tudor David, et al. "Asynchronized Concurrency: The Secret to Scaling Concurrent Search Data Structures", ACM SGARCH '15 [:octocat:](https://github.com/LPD-EPFL/CLHT.git)
   - Vikram Narayanan, et al. "DRAMHiT: A Hash Table Architected for the Speed of DRAM", EuroSys '23
-  - Daokun Hu, et al. "Halo: A Hybrid PMem-DRAM Persistent Hash Index with Fast Recovery", SIGMOD '20 [:octocat](https://github.com/HNUSystemsLab/Halo.git)
+  - Daokun Hu, et al. "Halo: A Hybrid PMem-DRAM Persistent Hash Index with Fast Recovery", SIGMOD '20 [:octocat:](https://github.com/HNUSystemsLab/Halo.git)
 - Hybrid Technique
   - Jingtian Zhang, et al. "S3: a scalable in-memory skip-list index for key-value store", VLDB 2019
   - Sprenger, et al. "Cache-Sensitive Skip List: Efficient Range Queries on Modern CPUs", Data Management on New Hardware 2016 [:octocat:](https://github.com/flippingbits/cssl.git)
