@@ -10,29 +10,42 @@
 
 ## Paper & Lecture List
 ### Traditional Index
-- B-Tree
+- Tree-based
   - Douglas Comer, "Ubiquitous B-Tree", ACM Computing Surveys, 1979
   - R. Bayer, et al. "Organization and maintenance of large ordered indices", SIGFIDET '70
   - Justin J. Levandoski, et al. "The Bw-Tree: A B-tree for new hardware platform", ICDE 2013 [:octocat:](https://github.com/flode/BwTree.git)
-  - J. Rao, et al. "CSB+Tree Making B+-Trees Cache Conscious in Main Memory", SIGMOD 2000
-- SkipList
+  - J. Rao, et al. "Making B+-Trees Cache Conscious in Main Memory", SIGMOD 2000 [:octocat:](https://github.com/EmmanuelSHS/Cache_Sensitive_B_Tree.git)
+  - J. Rao, et al. "Cache Conscious Indexing for Decision-Support in Main Memory", VLDB '99 [:octocat:](https://github.com/gvinciguerra/CSS-tree.git)
+  - Changkyu Kim et al. "FAST: fast architecture sensitive tree search on modern CPUs and GPUs", SIGMOD '10
+  - Yandong Mao, et al. "Cache craftiness for fast multicore key-value storage", EuroSys '12 [:octocat:](https://github.com/kohler/masstree-beta.git)
+  - Viktor Leis, et al. "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 2013 [:octocat:](https://github.com/armon/libart.git)
+  - Wook-Hee Kim, et al. "PACTree: A High Performance Persistent Range Index Using PAC Guidelines", SOSP '21 [:octocat:](https://github.com/cosmoss-jigu/pactree.git)
+  - Se Kwon Lee, et al. "WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems", FAST '17 [:octocat:](https://github.com/SeKwonLee/WORT.git)
+- List-based
   - William Pugh, "Skip lists: a probabilistic alternative to balanced trees", Communications of the ACM 1990
   - Zhongle Xie, et al. "Parallelizing Skip Lits for In-Memory Multi-Core Database Systems", ICDE 2017
-  - Jingtian Zhang, et al. "S3: a scalable in-memory skip-list index for key-value store", VLDB 2019
-  - Sprenger, et al. "Cache-Sensitive Skip List: Efficient Range Queries on Modern CPUs", Data Management on New Hardware 2016 [:octocat:](https://github.com/flippingbits/cssl.git)
   - Jeseong Yeon, et al. "JellyFish: A Fast Skip List with MVCC", Middleware '20
   - Tyler Crain, et al. "No Hot Spot Non-blocking Skip List", ICDCS 2013
   - Henry Daly, et al. "NUMASK: High Performance Scalable Skip List for NUMA", DISC 2018 [:octocat:](https://github.com/sss-lehigh/numask.git)
-- ART
-  - Viktor Leis, et al. "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 2013 [:octocat:](https://github.com/armon/libart.git)
-- MassTree
-  - Yandong Mao, et al. "Cache craftiness for fast multicore key-value storage", EuroSys '12 [:octocat:](https://github.com/kohler/masstree-beta.git)
-- FAST
-  - Changkyu Kim et al. "FAST: fast architecture sensitive tree search on modern CPUs and GPUs", SIGMOD '10
-- In-memory Index Survey
-  - Z. Xie, et al. "A Comprehensive Performance Evaluation of Modern In-Memory Indices", ICDE 2018 
-- In-memory Database Survey
+  - Yedam Na, et al. "ESL: A High-Performance Skiplist with Express Lane", MDPI 2023
+  - Zhongle Xie, et al. "PI: a parallel in-memory skip list based index", CoRR 2016
+  - Tadeusz Kobus, et al. "Jiffy: a lock-free skip list with batch updates and snapshots", PPoPP '22 [:octocat:](https://github.com/tkobus/jiffy.git)
+  - Vitaly Aksenov, et al. "The splay-list: a distribution-adaptive concurrent skip-list", Distributed Computing 2023
+- Hash-based
+  - Tudor David, et al. "Asynchronized Concurrency: The Secret to Scaling Concurrent Search Data Structures", ACM SGARCH '15 [:octocat:](https://github.com/LPD-EPFL/CLHT.git)
+  - Vikram Narayanan, et al. "DRAMHiT: A Hash Table Architected for the Speed of DRAM", EuroSys '23
+  - Daokun Hu, et al. "Halo: A Hybrid PMem-DRAM Persistent Hash Index with Fast Recovery", SIGMOD '20 [:octocat](https://github.com/HNUSystemsLab/Halo.git)
+- Hybrid Technique
+  - Jingtian Zhang, et al. "S3: a scalable in-memory skip-list index for key-value store", VLDB 2019
+  - Sprenger, et al. "Cache-Sensitive Skip List: Efficient Range Queries on Modern CPUs", Data Management on New Hardware 2016 [:octocat:](https://github.com/flippingbits/cssl.git)
+  - Hokeun Cha, et al. "Blink-hash: An Adaptive Hybrid Index for In-Memory Time-Series Databases", VLDB 2023
+  - Hongbo Kang, et al. "PIM-Tree: A Skew-Resistant Index for Processing-in-Memory", VLDB 2022
+  - Ajit mathew, et al. "HydraList: a scalable in-memory index using asynchronous updates and partial replication", VLDB 2020
+- Survey
+  - Z. Xie, et al. "A Comprehensive Performance Evaluation of Modern In-Memory Indices", ICDE 2018
   - Abdullah Talha Kabakus, et al, "A performance evaluation of in-memory databases", J. King Saud Univ. Comput. Inf. Sci. 2017
+
+  
 
 ### Learned Index
 #### Read-Only Learned Index
