@@ -75,6 +75,9 @@
 - FTL
   - **Sun, Jinghan, et al. "Leaftl: A learning-based flash translation layer for solid-state drives.", ASPLOS 23**
 
+#### Extensive ML4System Paper List
+  - LumingSun, ["ML4DB-paper-list"](https://github.com/LumingSun/ML4DB-paper-list)
+
 ### Lecture
   - [CMU, "Intro to Database Systems", Fall 2023](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=vIqTjyEuCJWWfprn)
     - This course is about the design/implementation of DBMS, not about "how to use a DBMS".
