@@ -50,28 +50,30 @@
 ### Learned Index
 #### Read-Only Learned Index
 - Maltry, Marcel, et al. "A critical analysis of recursive model indexes.", VLDB 22' [:octocat:](https://github.com/BigDataAnalyticsGroup/analysis-rmi)
-- Ferragina, Paolo, et al. "The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds.", VLDB 20' [:octocat:](https://gitub.com/gvinciguerra/PGM-index)
+- Ferragina, Paolo, et al. "The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds.", VLDB 20 [:octocat:](https://gitub.com/gvinciguerra/PGM-index) [:bar_chart:](https://pgm.di.unipi.it/)
 - Kipf, Andreas, et al. "RadixSpline: a single-pass learned index.", aiDM@SIGMOD 20[:octocat:](https://github.com/learnedsystems/RadixSpline) [:clapper:](https://youtu.be/or0JXc4UQ-4?si=onilmCv3VKvoB_b5)
-- Marcus, Ryan, et al. "Benchmarking learned indexes.", VLDB 20 [:octocat:](https://github.com/learnedsystems/SOSD)
-- Minguk, Choi, et al. "Can Learned Indexes be Build-Efficient? A Deep Dive into Sampling Trade-Offs.", SIGMOD
+- Marcus, Ryan, et al. **"Benchmarking learned indexes."**, VLDB 20 [:octocat:](https://github.com/learnedsystems/SOSD)
+- Minguk, Choi, et al. **"Can Learned Indexes be Build-Efficient? A Deep Dive into Sampling Trade-Offs."**, SIGMOD 24 [:octocat:](https://github.com/DKU-StarLab/Benchmark4Sampling)
 
 
 #### Updatable Learned Index
 - Ding, Jialin, et al. "ALEX: an updatable adaptive learned index.", SIGMOD 20 [:clapper:](https://youtu.be/wVxbOcwYZ8I?si=Aw4cnegvYFVEAE4c)
-- Wu, Jiacheng, et al. "Updatable learned index with precise positions.", VLDB 21
-- Ge, Jiake, et al. "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models.", SIGMOD 23
+- Wu, Jiacheng, et al. "Updatable learned index with precise positions.", VLDB 21 [:clapper:](https://youtu.be/cUhpkA7LbgA?si=FOoRZNqyDkFEgc3E)
+- Ge, Jiake, et al. **"SALI: A Scalable Adaptive Learned Index Framework based on Probability Models."**, SIGMOD 23
 - Wongkham, Chaichon, et al. "Are updatable learned indexes ready?.", VLDB 22' [:octocat:](https://github.com/gre4index/GRE)
-
-#### Application
+- Ge, Jiake, et al. "Cutting Learned Index into Pieces: An In-depth Inquiry into Updatable Learned Indexes." ICDE 23.
+- Sun, Zhaoyan, et al. **"Learned Index: A Comprehensive Experimental Evaluation."** VLDB 23.
+  
+#### Algorithm & Application
 - Error-Bounded PLA Model
-  - Xie, Qing, et al. "Maximum error-bounded piecewise linear representation for online stream approximation." VLDB journal 14
+  - **Xie, Qing, et al. "Maximum error-bounded piecewise linear representation for online stream approximation." VLDB journal 14**
 - Key-Value Store
   - Dai, Yifan, et al. "From {WiscKey} to Bourbon: A Learned Index for {Log-Structured} Merge Trees.", OSDI 20 [:octocat:](https://bitbucket.org/daiyifandanny/learned-leveldb/src/master/)
   - Yu, Geoffrey X., et al. "Treeline: an update-in-place key-value store for modern storage.", VLDB 22 [:octocat:](https://github.com/mitdbg/treeline) [:bar_chart:](https://people.csail.mit.edu/markakis/presentations/2023-08-31_VLDB_TreeLine_Presentation.pdf)
 - NVM Device
   - Lu, Baotong, et al. "APEX: A high-performance learned index on persistent memory.", VLDB 21
 - FTL
-  - Sun, Jinghan, et al. "Leaftl: A learning-based flash translation layer for solid-state drives.", ASPLOS 23
+  - **Sun, Jinghan, et al. "Leaftl: A learning-based flash translation layer for solid-state drives.", ASPLOS 23**
 
 ### Lecture
   - [CMU, "Intro to Database Systems", Fall 2023](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&si=vIqTjyEuCJWWfprn)
