@@ -7,6 +7,12 @@
 * Write a open-source document.
 * (Optional) Write a research paper on what you learned.
 
+## Schedule
+|        | Date     | Content |
+| :----- | :------- | :------ |
+| Week 1 | 24-01-03 | [Hojin Shin, "Traditional Index"](./presentation_file/W1_HojinShin.pdf)     |
+| Week 2 | 24-01-10 | Hojin Shin, "Traditional Index" <br> [Minguk Choi, "A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)    |
+
 
 ## Paper & Lecture List
 ### Benchmarks
