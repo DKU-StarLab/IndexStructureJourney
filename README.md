@@ -9,6 +9,11 @@
 
 
 ## Paper & Lecture List
+### Benchmarks
+- Traditional Index : [Index-Microbench](https://github.com/ErosBryant/new-index-microbench)
+- Read-Only Learned Index : [LIST](https://github.com/DKU-StarLab/Benchmark4Sampling)
+- Updatable Learned Index : [GRE (with SALI)](https://github.com/cds-ruc/SALI)
+
 ### Traditional Index
 - Tree-based
   - Douglas Comer, "Ubiquitous B-Tree", ACM Computing Surveys, 1979
@@ -60,20 +65,21 @@
 - Ding, Jialin, et al. "ALEX: an updatable adaptive learned index.", SIGMOD 20 [:clapper:](https://youtu.be/wVxbOcwYZ8I?si=Aw4cnegvYFVEAE4c)
 - Wu, Jiacheng, et al. "Updatable learned index with precise positions.", VLDB 21 [:clapper:](https://youtu.be/cUhpkA7LbgA?si=FOoRZNqyDkFEgc3E)
 - Ge, Jiake, et al. **"SALI: A Scalable Adaptive Learned Index Framework based on Probability Models."**, SIGMOD 23
-- Wongkham, Chaichon, et al. "Are updatable learned indexes ready?.", VLDB 22' [:octocat:](https://github.com/gre4index/GRE)
-- Ge, Jiake, et al. "Cutting Learned Index into Pieces: An In-depth Inquiry into Updatable Learned Indexes." ICDE 23.
+- Wongkham, Chaichon, et al. "**Are updatable learned indexes ready?**", VLDB 22' [:octocat:](https://github.com/gre4index/GRE)
+
 - Sun, Zhaoyan, et al. **"Learned Index: A Comprehensive Experimental Evaluation."** VLDB 23.
   
 #### Algorithm & Application
 - Error-Bounded PLA Model
-  - **Xie, Qing, et al. "Maximum error-bounded piecewise linear representation for online stream approximation." VLDB journal 14**
+  - Xie, Qing, et al. **"Maximum error-bounded piecewise linear representation for online stream approximation."** VLDB journal 14
 - Key-Value Store
   - Dai, Yifan, et al. "From {WiscKey} to Bourbon: A Learned Index for {Log-Structured} Merge Trees.", OSDI 20 [:octocat:](https://bitbucket.org/daiyifandanny/learned-leveldb/src/master/)
   - Yu, Geoffrey X., et al. "Treeline: an update-in-place key-value store for modern storage.", VLDB 22 [:octocat:](https://github.com/mitdbg/treeline) [:bar_chart:](https://people.csail.mit.edu/markakis/presentations/2023-08-31_VLDB_TreeLine_Presentation.pdf)
 - NVM Device
   - Lu, Baotong, et al. "APEX: A high-performance learned index on persistent memory.", VLDB 21
+  - Ge, Jiake, et al. "Cutting Learned Index into Pieces: An In-depth Inquiry into Updatable Learned Indexes." ICDE 23.
 - FTL
-  - **Sun, Jinghan, et al. "Leaftl: A learning-based flash translation layer for solid-state drives.", ASPLOS 23**
+  - Sun, Jinghan, et al. **"Leaftl: A learning-based flash translation layer for solid-state drives."**, ASPLOS 23
 
 #### Extensive ML4System Paper List
   - LumingSun, ["ML4DB-paper-list"](https://github.com/LumingSun/ML4DB-paper-list)
