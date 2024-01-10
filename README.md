@@ -8,13 +8,13 @@
 * (Optional) Write a research paper on what you learned.
 
 ## Schedule
-|        | Date     | Content |
-| :----- | :------- | :------ |
-| Week 1 | 24-01-03 | [Hojin Shin, "Traditional Index"](./presentation_file/W1_HojinShin.pdf)     |
-| Week 2 | 24-01-10 | Hojin Shin, "Traditional Index" <br> [Minguk Choi, "A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)    |
-| Week 3 | 24-01-17 | 논문 발표: 김나경, 신수환 |
-| Week 4 | 24-01-24 | 논문 발표: 김보승, 최연규 |
-| Week 5 | 24-01-31 | 논문 발표: 오여진, 이지수, 쥬용지에 |
+|        | Date     | Content | Presenter |
+| :----- | :------- | :------ | :------ |
+| Week 1 | 24-01-03 | ["Traditional Index"](./presentation_file/W1_HojinShin.pdf)  | Hojin Shin |
+| Week 2 | 24-01-10 | "Traditional Index" <br> ["A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)  | Hojin Shin, Minguk Choi |
+| Week 3 | 24-01-17 | 논문 발표 | Nakyung Kim, Suhwan Shin |
+| Week 4 | 24-01-24 | 논문 발표 | Boseung Kim, Choi Yeongyu |
+| Week 5 | 24-01-31 | 논문 발표 | Yeojin Oh, Jisoo Lee, Zhu Yongjie |
 
 
 ## Paper & Lecture List
