@@ -21,8 +21,8 @@
 ### Benchmarks
 - Traditional Index : [Index-Microbench](https://github.com/ErosBryant/new-index-microbench)
 - Read-Only Learned Index : [LIST](https://github.com/DKU-StarLab/Benchmark4Sampling)
-- Updatable Learned Index : [GRE (with SALI)](https://github.com/cds-ruc/SALI)
-
+- Updatable Learned Index : [GRE (with SALI)](https://github.com/cds-ruc/GRE_SALI)
+  
 ### Traditional Index
 - Tree-based
   - Douglas Comer, "Ubiquitous B-Tree", ACM Computing Surveys, 1979
