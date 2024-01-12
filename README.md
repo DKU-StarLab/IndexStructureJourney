@@ -8,17 +8,25 @@
 * (Optional) Write a research paper on what you learned.
 
 ## Schedule
-|        | Date     | Content |
-| :----- | :------- | :------ |
-| Week 1 | 24-01-03 | [Hojin Shin, "Traditional Index"](./presentation_file/W1_HojinShin.pdf)     |
-| Week 2 | 24-01-10 | Hojin Shin, "Traditional Index" <br> [Minguk Choi, "A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)    |
+|        | Date     | Content | Presenter |
+| :----- | :------- | :------ | :------ |
+| Week 1 | 24-01-03 | ["Traditional Index"](./presentation_file/W1_HojinShin.pdf)  | Hojin Shin |
+| Week 2 | 24-01-10 | "Traditional Index" <br> ["A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)  | Hojin Shin, Minguk Choi |
+| Week 3 | 24-01-17 | 논문 발표 | Nakyung Kim, Suhwan Shin |
+| Week 4 | 24-01-24 | 논문 발표 | Boseung Kim, Yeongyu Choi |
+| Week 5 | 24-01-31 | 논문 발표 | Yeojin Oh, Jisoo Lee, Zhu Yongjie |
 
 
 ## Paper & Lecture List
 ### Benchmarks
 - Traditional Index : [Index-Microbench](https://github.com/ErosBryant/new-index-microbench)
+  - Traditional Index : SkipList, B+TreeRTM, B+TreeOLC, BwTree, ARTOLC, MassTree
 - Read-Only Learned Index : [LIST](https://github.com/DKU-StarLab/Benchmark4Sampling)
-- Updatable Learned Index : [GRE (with SALI)](https://github.com/cds-ruc/SALI)
+  - Learned Index : sRMI, sPGM-Index, sRS
+  - Traditional Index : sCHT, sRT, sB+Tree(STX B+-Tree), sART, sIBTree
+- Updatable Learned Index : [GRE](https://github.com/gre4index/GRE)
+  - Learned Index : ALEX, ALEX+, LIPP, LIPP+, PGM-Index, XIndex, FINEdex
+  - Traditional Index : STX B+Tree, B+TreeOLC, ART, ART-OLC, HOT, HOT-ROWEX, MassTree, Wormhole
 
 ### Traditional Index
 - Tree-based
@@ -60,7 +68,7 @@
 
 ### Learned Index
 #### Read-Only Learned Index
-- Maltry, Marcel, et al. "A critical analysis of recursive model indexes.", VLDB 22' [:octocat:](https://github.com/BigDataAnalyticsGroup/analysis-rmi)
+- Maltry, Marcel, et al. "A critical analysis of recursive model indexes.", VLDB 22 [:octocat:](https://github.com/BigDataAnalyticsGroup/analysis-rmi)
 - Ferragina, Paolo, et al. "The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds.", VLDB 20 [:octocat:](https://gitub.com/gvinciguerra/PGM-index) [:bar_chart:](https://pgm.di.unipi.it/)
 - Kipf, Andreas, et al. "RadixSpline: a single-pass learned index.", aiDM@SIGMOD 20[:octocat:](https://github.com/learnedsystems/RadixSpline) [:clapper:](https://youtu.be/or0JXc4UQ-4?si=onilmCv3VKvoB_b5)
 - Marcus, Ryan, et al. **"Benchmarking learned indexes."**, VLDB 20 [:octocat:](https://github.com/learnedsystems/SOSD)
@@ -68,24 +76,22 @@
 
 
 #### Updatable Learned Index
-- Ding, Jialin, et al. "ALEX: an updatable adaptive learned index.", SIGMOD 20 [:clapper:](https://youtu.be/wVxbOcwYZ8I?si=Aw4cnegvYFVEAE4c)
-- Wu, Jiacheng, et al. "Updatable learned index with precise positions.", VLDB 21 [:clapper:](https://youtu.be/cUhpkA7LbgA?si=FOoRZNqyDkFEgc3E)
-- Ge, Jiake, et al. **"SALI: A Scalable Adaptive Learned Index Framework based on Probability Models."**, SIGMOD 23
+- Ding, Jialin, et al. "ALEX: an updatable adaptive learned index.", SIGMOD 20 [:clapper:](https://youtu.be/wVxbOcwYZ8I?si=Aw4cnegvYFVEAE4c) [:octocat:](https://github.com/microsoft/ALEX.git)
+- Wu, Jiacheng, et al. "Updatable learned index with precise positions.", VLDB 21 [:clapper:](https://youtu.be/cUhpkA7LbgA?si=FOoRZNqyDkFEgc3E) [:octocat:](https://github.com/Jiacheng-WU/lipp.git)
 - Wongkham, Chaichon, et al. "**Are updatable learned indexes ready?**", VLDB 22' [:octocat:](https://github.com/gre4index/GRE)
-
 - Sun, Zhaoyan, et al. **"Learned Index: A Comprehensive Experimental Evaluation."** VLDB 23.
-  
+- Ge, Jiake, et al. **"SALI: A Scalable Adaptive Learned Index Framework based on Probability Models."**, SIGMOD 24 [:octocat:](https://github.com/cds-ruc/SALI/tree/a7eee3449e07b5b0d4f34507311fbf2224523c8d)
 #### Algorithm & Application
 - Error-Bounded PLA Model
-  - Xie, Qing, et al. **"Maximum error-bounded piecewise linear representation for online stream approximation."** VLDB journal 14
+  - Xie, Qing, et al. **"Maximum error-bounded piecewise linear representation for online stream approximation."** VLDB journal 14 [:octocat:](https://github.com/RyanMarcus/plr.git)
 - Key-Value Store
   - Dai, Yifan, et al. "From {WiscKey} to Bourbon: A Learned Index for {Log-Structured} Merge Trees.", OSDI 20 [:octocat:](https://bitbucket.org/daiyifandanny/learned-leveldb/src/master/)
   - Yu, Geoffrey X., et al. "Treeline: an update-in-place key-value store for modern storage.", VLDB 22 [:octocat:](https://github.com/mitdbg/treeline) [:bar_chart:](https://people.csail.mit.edu/markakis/presentations/2023-08-31_VLDB_TreeLine_Presentation.pdf)
 - NVM Device
-  - Lu, Baotong, et al. "APEX: A high-performance learned index on persistent memory.", VLDB 21
+  - Lu, Baotong, et al. "APEX: A high-performance learned index on persistent memory.", VLDB 21 [:octocat:](https://github.com/baotonglu/apex.git)
   - Ge, Jiake, et al. "Cutting Learned Index into Pieces: An In-depth Inquiry into Updatable Learned Indexes." ICDE 23.
 - FTL
-  - Sun, Jinghan, et al. **"Leaftl: A learning-based flash translation layer for solid-state drives."**, ASPLOS 23
+  - Sun, Jinghan, et al. **"Leaftl: A learning-based flash translation layer for solid-state drives."**, ASPLOS 23 [:octocat:](https://github.com/platformxlab/LeaFTL.git)
 
 #### Extensive ML4System Paper List
   - LumingSun, ["ML4DB-paper-list"](https://github.com/LumingSun/ML4DB-paper-list)
