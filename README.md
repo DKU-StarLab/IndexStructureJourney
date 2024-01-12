@@ -125,11 +125,11 @@
   - [Uftrace](https://github.com/namhyung/uftrace)
 
 * File
-  - [presentation file format](./file/%5Bformat%5Dleveldb_study_ppt.pptx)
+  - [presentation file format](./presentation_file/presentation_file_format.pptx)
   - [kcc research paper format](./file/%5Bformat%5Dresearch_paper(KCC).hwp)
 
 * Previous Study
-  - [DKU Leveldb Study, 2022]()
+  - [DKU Leveldb Study, 2022](https://github.com/DKU-StarLab/leveldb-study)
   - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
 
 ## Members
