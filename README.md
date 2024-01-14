@@ -60,6 +60,7 @@
   - Hokeun Cha, et al. "Blink-hash: An Adaptive Hybrid Index for In-Memory Time-Series Databases", VLDB 2023
   - Hongbo Kang, et al. "PIM-Tree: A Skew-Resistant Index for Processing-in-Memory", VLDB 2022
   - Ajit mathew, et al. "HydraList: a scalable in-memory index using asynchronous updates and partial replication", VLDB 2020
+  - Wenlong Ma, et al. "BiloKey: A Scalable Bi-Index Locality-Aware In-Memory Key-Value Store", IEEE TPDS 2019
 - Survey
   - Z. Xie, et al. "A Comprehensive Performance Evaluation of Modern In-Memory Indices", ICDE 2018
   - Abdullah Talha Kabakus, et al, "A performance evaluation of in-memory databases", J. King Saud Univ. Comput. Inf. Sci. 2017
