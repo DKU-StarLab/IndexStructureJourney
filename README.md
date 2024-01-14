@@ -64,6 +64,7 @@
 - Survey
   - Z. Xie, et al. "A Comprehensive Performance Evaluation of Modern In-Memory Indices", ICDE 2018
   - Abdullah Talha Kabakus, et al, "A performance evaluation of in-memory databases", J. King Saud Univ. Comput. Inf. Sci. 2017
+  - Venkata Sai Pavan Kumar Vadrevu et al, "Tutorial: The Ubiquitous Skiplist, its Variants, and Applications in Modern Big Data Systems"
 
   
 
