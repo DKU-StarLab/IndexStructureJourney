@@ -8,14 +8,37 @@
 * (Optional) Write a research paper on what you learned.
 
 ## Schedule
-|        | Date     | Content | Presenter |
-| :----- | :------- | :------ | :------ |
-| Week 1 | 24-01-03 | ["Traditional Index"](./presentation_file/W1_HojinShin.pdf)  | Hojin Shin |
-| Week 2 | 24-01-10 | "Traditional Index" <br> ["A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)  | Hojin Shin, Minguk Choi |
-| Week 3 | 24-01-17 | ["No Hot Spot Non-Blocking Skip List"](./presentation_file/W3_NakyeongKim_SuhwanShin.pptx) | Nakyeong Kim, Suhwan Shin |
-| Week 4 | 24-01-24 | "S3: A Scalable In-memory Skip-List Index for Key-Value Store" | Boseung Kim, Yeongyu Choi |
-| Week 5 | 24-01-31 | 논문 발표 | Yeojin Oh, Jisoo Lee, Zhu Yongjie |
+### Paper Presentation
+|         | Date      | Content                                                                               | Presenter                               |
+| :------ | :-------- | :------------------------------------------------------------------------------------ | :-------------------------------------- |
+| Week 1  | 24-01-03  | ["Traditional Index"](./presentation_file/W1_HojinShin.pdf)                                                                  | Hojin Shin                              |
+| Week 2  | 24-01-10  | "Traditional Index"                                                                   | Hojin Shin                              |
+|         |           | ["A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)                                                             | Minguk Choi                             |
+| Week 3  | 24-01-17  | ["No Hot Spot Non-blocking Skip List", ICDCS 13](./presentation_file/W3_NakyeongKim_SuhwanShin.pptx)                                        | Nakyeong Kim, Suhwan Shin               |
+| Week 4  | 24-01-24  | "Benchmarking learned indexes.", VLDB 20                                              | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |
+|         |           | "S3: A Scalable In-memory Skip-List Index for Key-Value Store"                        | Boseung Kim, Yeongyu Choi               |
+| Week 5  | 24-01-31  | "Learned Index: A Comprehensive Experimental Evaluation." VLDB 23                     | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
+| Week 6  | 24-02-07  | "Leaftl: A learning-based flash translation layer for solid-state drives.", ASPLOS 23 | Zhu Yongjie, Jisoo Lee                  |
+|         |           | "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 13         | Boseung Kim, Yeojin Oh                  |
+| Week 7  | 24-02-14  | "Cache craftiness for fast multicore key-value storage", EuroSys '12                  | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
+| Week 8  | 24-02-21  | "DILI: A Distribution-Driven Learned Index", VLDB 23                                  | Boseung Kim, Yeojin Oh                  |
+| Week 9  | 24-02-28  | "Blink-hash: An Adaptive Hybrid Index for In-Memory Time-Series Databases", VLDB 23   | Zhu Yongjie, Jisoo Lee                  |
 
+### Evaluation Presentation
+|        |          | Presenter                               | Contents |
+| :----- | :------- | :-------------------------------------- | :------- |
+| Week 3 | 24-01-17 | Boseung Kim, Yeongyu Choi               |          |
+|        |          | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |          |
+| Week 4 | 24-01-24 | Nakyeong Kim, Suhwan Shin               |          |
+| Week 5 | 24-01-31 | Zhu Yongjie, Jisoo Lee                  |          |
+|        |          | Boseung Kim, Yeojin Oh                  |          |
+| Week 6 | 24-02-07 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
+| Week 7 | 24-02-14 | Zhu Yongjie, Jisoo Lee                  |          |
+|        |          | Boseung Kim, Yeojin Oh                  |          |
+| Week 8 | 24-02-21 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
+|        |          | Zhu Yongjie, Jisoo Lee                  |          |
+| Week 9 | 24-02-28 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
+|        |          | Boseung Kim, Yeojin Oh                  |          |
 
 ## Paper & Lecture List
 ### Benchmarks
@@ -123,7 +146,7 @@
 
 * Tools
   - [GDB](https://www.sourceware.org/gdb/)
-  - [Understand](https://licensing.scitools.com/download)
+  - [Understand](https://licensing.scitools.com/download) 
   - [Uftrace](https://github.com/namhyung/uftrace)
 
 * File
