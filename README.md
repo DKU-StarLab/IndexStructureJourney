@@ -16,7 +16,7 @@
 |         |           | ["A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)                                                             | Minguk Choi                             |
 | Week 3  | 24-01-17  | ["No Hot Spot Non-blocking Skip List", ICDCS 13](./presentation_file/W3_NakyeongKim_SuhwanShin.pptx)                                        | Nakyeong Kim, Suhwan Shin               |
 | Week 4  | 24-01-24  | "Benchmarking learned indexes.", VLDB 20                                              | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |
-|         |           | "S3: A Scalable In-memory Skip-List Index for Key-Value Store"                        | Boseung Kim, Yeongyu Choi               |
+|         |           | ["S3: A Scalable In-memory Skip-List Index for Key-Value Store", VLDB 19](./presentation_file/W4_BoseungKim_yeongyuChoi.pptx)               | Boseung Kim, Yeongyu Choi               |
 | Week 5  | 24-01-31  | "Learned Index: A Comprehensive Experimental Evaluation." VLDB 23                     | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
 | Week 6  | 24-02-07  | "Leaftl: A learning-based flash translation layer for solid-state drives.", ASPLOS 23 | Zhu Yongjie, Jisoo Lee                  |
 |         |           | "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 13         | Boseung Kim, Yeojin Oh                  |
