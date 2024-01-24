@@ -13,16 +13,15 @@
 | :------ | :-------- | :------------------------------------------------------------------------------------ | :-------------------------------------- |
 | Week 1  | 24-01-03  | ["Traditional Index"](./presentation_file/W1_HojinShin.pdf)                                                                  | Hojin Shin                              |
 | Week 2  | 24-01-10  | "Traditional Index"                                                                   | Hojin Shin                              |
-|         |           | ["A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)                                                             | Minguk Choi                             |
-| Week 3  | 24-01-17  | ["No Hot Spot Non-blocking Skip List", ICDCS 13](./presentation_file/W3_NakyeongKim_SuhwanShin.pptx)                                        | Nakyeong Kim, Suhwan Shin               |
-| Week 4  | 24-01-24  | ["Benchmarking learned indexes.", VLDB 20](./presentation_file/W4_YeojinOh_ZhuYongjie.pptx)                                              | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |
+|         |           | ["A Learned Index Journey"](./presentation_file/W2_MingukChoi_A_Index_Journey.pdf)                                                         | Minguk Choi                             |
+| Week 3  | 24-01-17  | ["No Hot Spot Non-blocking Skip List", ICDCS 13](./presentation_file/W3_NakyeongKim_SuhwanShin.pptx)                                       | Nakyeong Kim, Suhwan Shin               |
+| Week 4  | 24-01-24  | ["Benchmarking learned indexes.", VLDB 20](./presentation_file/W4_YeojinOh_ZhuYongjie.pptx)                                                | Yeojin Oh, Zhu Yongjie       |
 |         |           | ["S3: A Scalable In-memory Skip-List Index for Key-Value Store", VLDB 19](./presentation_file/W4_BoseungKim_yeongyuChoi.pdf)               | Boseung Kim, Yeongyu Choi               |
-| Week 5  | 24-01-31  | "Learned Index: A Comprehensive Experimental Evaluation." VLDB 23                     | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
-| Week 6  | 24-02-07  | "Leaftl: A learning-based flash translation layer for solid-state drives.", ASPLOS 23 | Zhu Yongjie, Jisoo Lee                  |
-|         |           | "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 13         | Boseung Kim, Yeojin Oh                  |
-| Week 7  | 24-02-14  | "Cache craftiness for fast multicore key-value storage", EuroSys '12                  | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
-| Week 8  | 24-02-21  | "DILI: A Distribution-Driven Learned Index", VLDB 23                                  | Boseung Kim, Yeojin Oh                  |
-| Week 9  | 24-02-28  | "Blink-hash: An Adaptive Hybrid Index for In-Memory Time-Series Databases", VLDB 23   | Zhu Yongjie, Jisoo Lee                  |
+| Week 5  | 24-01-31  | "Learned Index: A Comprehensive Experimental Evaluation." VLDB 23                           | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
+| Week 6  | 24-02-07  | "FAST: fast architecture sensitive tree search on modern CPUs and GPUs", SIGMOD 10          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
+| Week 7  | 24-02-14  | "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 13               | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
+| Week 8  | 24-02-21  | "DILI: A Distribution-Driven Learned Index", VLDB 23                                        | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
+
 
 ### Evaluation Presentation
 |        |          | Presenter                               | Contents |
@@ -30,15 +29,15 @@
 | Week 3 | 24-01-17 | Boseung Kim, Yeongyu Choi               |          |
 |        |          | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |          |
 | Week 4 | 24-01-24 | Nakyeong Kim, Suhwan Shin               | [No Hot Spot Non-Blocking Skip List - Range Query Experiment](https://github.com/DKU-StarLab/IndexStructureJourney/blob/main/presentation_file/W4_NakyeongKim_SuhwanShin.pdf) |
-| Week 5 | 24-01-31 | Zhu Yongjie, Jisoo Lee                  |          |
-|        |          | Boseung Kim, Yeojin Oh                  |          |
+| Week 5 | 24-01-31 | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
 | Week 6 | 24-02-07 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
-| Week 7 | 24-02-14 | Zhu Yongjie, Jisoo Lee                  |          |
-|        |          | Boseung Kim, Yeojin Oh                  |          |
+|        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
+| Week 7 | 24-02-14 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
+|        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
 | Week 8 | 24-02-21 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
-|        |          | Zhu Yongjie, Jisoo Lee                  |          |
+|        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
 | Week 9 | 24-02-28 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
-|        |          | Boseung Kim, Yeojin Oh                  |          |
+|        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
 
 ## Paper & Lecture List
 ### Benchmarks
@@ -106,6 +105,8 @@
 - Wongkham, Chaichon, et al. "**Are updatable learned indexes ready?**", VLDB 22' [:octocat:](https://github.com/gre4index/GRE)
 - Sun, Zhaoyan, et al. **"Learned Index: A Comprehensive Experimental Evaluation."** VLDB 23.
 - Ge, Jiake, et al. **"SALI: A Scalable Adaptive Learned Index Framework based on Probability Models."**, SIGMOD 24 [:octocat:](https://github.com/cds-ruc/SALI/tree/a7eee3449e07b5b0d4f34507311fbf2224523c8d)
+
+
 #### Algorithm & Application
 - Error-Bounded PLA Model
   - Xie, Qing, et al. **"Maximum error-bounded piecewise linear representation for online stream approximation."** VLDB journal 14 [:octocat:](https://github.com/RyanMarcus/plr.git)
@@ -158,7 +159,7 @@
   - [DKU RocksDB Festival, 2021](https://github.com/DKU-StarLab/RocksDB_Festival)
 
 ## Members
-* Student: [Suhwan Shin](https://github.com/Student5421), [Zhu Yongjie](https://github.com/arashio1111), Boseung Kim, Yeojin Oh, 김나경, 이지수, 최연규 
+* Student: [Suhwan Shin](https://github.com/Student5421), [Zhu Yongjie](https://github.com/arashio1111), Boseung Kim, Yeojin Oh, Nakyeong Kim, Yeongyu Choi 
 * Assistant: [Hojin Shin](https://github.com/shinhojin), [Minguk Choi](https://github.com/min-guk), [Zhao Guangxun](https://github.com/ErosBryant)
 * Professor: [Jongmoo Choi](http://embedded.dankook.ac.kr/~choijm/)
 
