@@ -29,7 +29,7 @@
 | :----- | :------- | :-------------------------------------- | :------- |
 | Week 3 | 24-01-17 | Boseung Kim, Yeongyu Choi               |          |
 |        |          | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |          |
-| Week 4 | 24-01-24 | Nakyeong Kim, Suhwan Shin               |          |
+| Week 4 | 24-01-24 | Nakyeong Kim, Suhwan Shin               | [No Hot Spot Non-Blocking Skip List - Range Query Experiment](https://github.com/DKU-StarLab/IndexStructureJourney/blob/main/presentation_file/W4_NakyeongKim_SuhwanShin.pdf) |
 | Week 5 | 24-01-31 | Zhu Yongjie, Jisoo Lee                  |          |
 |        |          | Boseung Kim, Yeojin Oh                  |          |
 | Week 6 | 24-02-07 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
