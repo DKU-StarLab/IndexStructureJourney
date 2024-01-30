@@ -18,9 +18,10 @@
 | Week 4  | 24-01-24  | ["Benchmarking learned indexes.", VLDB 20](./presentation_file/W4_YeojinOh_ZhuYongjie.pptx)                                                | Yeojin Oh, Zhu Yongjie       |
 |         |           | ["S3: A Scalable In-memory Skip-List Index for Key-Value Store", VLDB 19](./presentation_file/W4_BoseungKim_yeongyuChoi.pdf)               | Boseung Kim, Yeongyu Choi               |
 | Week 5  | 24-01-31  | "Learned Index: A Comprehensive Experimental Evaluation." VLDB 23                           | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
-| Week 6  | 24-02-07  | "FAST: fast architecture sensitive tree search on modern CPUs and GPUs", SIGMOD 10          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
-| Week 7  | 24-02-14  | "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 13               | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
-| Week 8  | 24-02-21  | "DILI: A Distribution-Driven Learned Index", VLDB 23                                        | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
+| Week 6  | 24-02-07  | Lunar New Year Holiday          | |
+| Week 6  | 24-02-14  | "FAST: fast architecture sensitive tree search on modern CPUs and GPUs", SIGMOD 10          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
+| Week 7  | 24-02-21  | "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 13               | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
+| Week 8  | 24-02-28  | "DILI: A Distribution-Driven Learned Index", VLDB 23                                        | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
 
 
 ### Evaluation Presentation
@@ -30,8 +31,7 @@
 |        |          | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |          |
 | Week 4 | 24-01-24 | Nakyeong Kim, Suhwan Shin               | [No Hot Spot Non-Blocking Skip List - Range Query Experiment](https://github.com/DKU-StarLab/IndexStructureJourney/blob/main/presentation_file/W4_NakyeongKim_SuhwanShin.pdf) |
 | Week 5 | 24-01-31 | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
-| Week 6 | 24-02-07 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
-|        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
+| Week 6 | 24-02-07 | Lunar New Year Holiday                  |          |
 | Week 7 | 24-02-14 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
 |        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
 | Week 8 | 24-02-21 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
