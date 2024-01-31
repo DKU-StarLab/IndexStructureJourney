@@ -17,7 +17,7 @@
 | Week 3  | 24-01-17  | ["No Hot Spot Non-blocking Skip List", ICDCS 13](./presentation_file/W3_NakyeongKim_SuhwanShin.pptx)                                       | Nakyeong Kim, Suhwan Shin               |
 | Week 4  | 24-01-24  | ["Benchmarking learned indexes.", VLDB 20](./presentation_file/W4_YeojinOh_ZhuYongjie.pptx)                                                | Yeojin Oh, Zhu Yongjie       |
 |         |           | ["S3: A Scalable In-memory Skip-List Index for Key-Value Store", VLDB 19](./presentation_file/W4_BoseungKim_yeongyuChoi.pdf)               | Boseung Kim, Yeongyu Choi               |
-| Week 5  | 24-01-31  | ["Learned Index: A Comprehensive Experimental Evaluation." VLDB 23](https://github.com/DKU-StarLab/IndexStructureJourney/blob/main/presentation_file/W5_NakyeongKim_SuhwanShin_YeongyuChoi.pptx)                           | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
+| Week 5  | 24-01-31  | ["Learned Index: A Comprehensive Experimental Evaluation." VLDB 23](./presentation_file/W5_NakyeongKim_SuhwanShin_YeongyuChoi.pptx)                           | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
 | Week 6  | 24-02-07  | Lunar New Year Holiday          | |
 | Week 7  | 24-02-14  | "FAST: fast architecture sensitive tree search on modern CPUs and GPUs", SIGMOD 10          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
 | Week 8  | 24-02-21  | "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 13               | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
@@ -29,7 +29,7 @@
 | :----- | :------- | :-------------------------------------- | :------- |
 | Week 3 | 24-01-17 | Boseung Kim, Yeongyu Choi               |          |
 |        |          | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |          |
-| Week 4 | 24-01-24 | Nakyeong Kim, Suhwan Shin               | [No Hot Spot Non-Blocking Skip List - Range Query Experiment](https://github.com/DKU-StarLab/IndexStructureJourney/blob/main/presentation_file/W4_NakyeongKim_SuhwanShin.pdf) |
+| Week 4 | 24-01-24 | Nakyeong Kim, Suhwan Shin               | [No Hot Spot Non-Blocking Skip List - Range Query Experiment](./presentation_file/W4_NakyeongKim_SuhwanShin.pdf) |
 | Week 5 | 24-01-31 | Boseung Kim, Yeojin Oh, Zhu Yongjie     | [Apply SIMD to RMI](presentation_file/W5_YeojinOh_ZhuYongJie_BosengKim.pdf)|
 | Week 6 | 24-02-07 | Lunar New Year Holiday                  |          |
 | Week 7 | 24-02-14 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
