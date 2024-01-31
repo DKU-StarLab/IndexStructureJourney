@@ -30,7 +30,7 @@
 | Week 3 | 24-01-17 | Boseung Kim, Yeongyu Choi               |          |
 |        |          | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |          |
 | Week 4 | 24-01-24 | Nakyeong Kim, Suhwan Shin               | [No Hot Spot Non-Blocking Skip List - Range Query Experiment](https://github.com/DKU-StarLab/IndexStructureJourney/blob/main/presentation_file/W4_NakyeongKim_SuhwanShin.pdf) |
-| Week 5 | 24-01-31 | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
+| Week 5 | 24-01-31 | Boseung Kim, Yeojin Oh, Zhu Yongjie     | [Apply SIMD to RMI](presentation_file/W5_YeojinOh_ZhuYongJie_BosengKim.pdf)|
 | Week 6 | 24-02-07 | Lunar New Year Holiday                  |          |
 | Week 7 | 24-02-14 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
 |        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
