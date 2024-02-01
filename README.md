@@ -19,7 +19,7 @@
 |         |           | ["S3: A Scalable In-memory Skip-List Index for Key-Value Store", VLDB 19](./presentation_file/W4_BoseungKim_yeongyuChoi.pdf)               | Boseung Kim, Yeongyu Choi               |
 | Week 5  | 24-01-31  | ["Learned Index: A Comprehensive Experimental Evaluation." VLDB 23](./presentation_file/W5_NakyeongKim_SuhwanShin_YeongyuChoi.pptx)                           | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
 | Week 6  | 24-02-07  | Lunar New Year Holiday          | |
-| Week 7  | 24-02-14  | "FAST: fast architecture sensitive tree search on modern CPUs and GPUs", SIGMOD 10          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
+| Week 7  | 24-02-14  | "Cache craftiness for fast multicore key-value storage", EuroSys '12          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
 | Week 8  | 24-02-21  | "The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 13               | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |
 | Week 9  | 24-02-28  | "DILI: A Distribution-Driven Learned Index", VLDB 23                                        | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
 
