@@ -30,10 +30,10 @@
 | Week 3 | 24-01-17 | Boseung Kim, Yeongyu Choi               |          |
 |        |          | Yeojin Oh, Jisoo Lee, Zhu Yongjie       |          |
 | Week 4 | 24-01-24 | Nakyeong Kim, Suhwan Shin               | [No Hot Spot Non-Blocking Skip List - Range Query Experiment](./presentation_file/W4_NakyeongKim_SuhwanShin.pdf) |
-| Week 5 | 24-01-31 | Boseung Kim, Yeojin Oh, Zhu Yongjie     | [Apply SIMD to RMI](presentation_file/W5_YeojinOh_ZhuYongJie_BosengKim.pdf)|
+| Week 5 | 24-01-31 | Boseung Kim, Yeojin Oh, Zhu Yongjie     | [Apply SIMD to RMI](presentation_file/W5_YeojinOh_ZhuYongJie_BosengKim.pdf) |
 | Week 6 | 24-02-07 | Lunar New Year Holiday                  |          |
 | Week 7 | 24-02-14 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
-|        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
+|        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     | [Applying SIMD in Linear Regression](presentation_file/W7_YeojinOh_ZhuYongJie_BoseungKim_SIMD.pdf) |
 | Week 8 | 24-02-21 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
 |        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
 | Week 9 | 24-02-28 | Nakyeong Kim, Suhwan Shin, Yeongyu Choi |          |
