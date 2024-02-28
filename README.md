@@ -21,7 +21,7 @@
 | Week 6  | 24-02-07  | Lunar New Year Holiday          | |
 | Week 7  | 24-02-14  | ["Cache craftiness for fast multicore key-value storage", EuroSys '12](./presentation_file/W7_YeojinOh_ZhuYongJie_BosengKim_Masstree.pdf)          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
 | Week 8  | 24-02-21  | ["The adaptive radix tree: ARTful indexing for main-memory databases", ICDE 13](./presentation_file/W8_NakyeongKim_SuhwanShin.pdf)               | Nakyeong Kim, Suhwan Shin |
-| Week 9  | 24-02-28  | "Film: A fully learned index for larger-than-memory databases", VLDB 23                                        | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
+| Week 9  | 24-02-28  | ["Film: A fully learned index for larger-than-memory databases", VLDB 23] (./presentation_file/W9_YeojinOh_ZhuYongJie_BoseungKim.pdf)                                        | Boseung Kim, Yeojin Oh, Zhu Yongjie     |
 
 
 ### Evaluation Presentation
