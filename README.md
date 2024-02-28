@@ -35,7 +35,8 @@
 | Week 8 | 24-02-21 | Nakyeong Kim, Suhwan Shin |[LIPP Observations Enhancement](./presentation_file/W8_NakyeongKim_SuhwanShin_experiment.pdf)|
 |        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |[SIMD + RMI](./presentation_file/W8_YeojinOh_ZhuYongJie_BoseungKim.pdf)          |
 | Week 9 | 24-02-28 | Nakyeong Kim, Suhwan Shin | [LIPP New Hypothesis](./presentation_file/W9_NakyeongKim_SuhwanShin_experiment.pdf) |
-|        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     |          |
+|        |          | Boseung Kim, Yeojin Oh, Zhu Yongjie     | [Revisiting HW Parallelism in Learned Indexes]()
+|
 
 ## Paper & Lecture List
 ### Benchmarks
